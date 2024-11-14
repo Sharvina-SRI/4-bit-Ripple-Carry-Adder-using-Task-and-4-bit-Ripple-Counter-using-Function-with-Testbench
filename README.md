@@ -39,8 +39,8 @@ module ripple_carry_adder_4bit (
     end
 
     assign Sum = sum_temp;
-
 endmodule
+```
 ### Test bench for Ripple carry adder:
 ```
 module ripple_carry_adder_4bit_tb;
